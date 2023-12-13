@@ -8,6 +8,10 @@ README
 all usages are written below this line.
 
 #yolov8을이용한 오브젝트 디텍션 간단구현 및 파인튜닝 방법
+<img width="477" alt="스크린샷 2023-12-14 오전 1 20 04" src="https://github.com/taegoneom/taegoneom.github.io/assets/99521902/73cde557-ef0b-421c-aaaf-5d44399e0357">
+
+
+
 
 big help for implement from 
 https://youtu.be/WgPbbWmnXJ8?si=05BeCO5x1BDJhsjf
