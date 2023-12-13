@@ -1,4 +1,6 @@
-README 2020035805 엄태곤
+README 2020035805 엄태곤 
+보기 형태를 code로 보십시오(글자가 들쭉날쭉함)
+모든 사용예제는 여기 기재되어있습니다.
 all usages are written below this line.
 yolov8을이용한 오브젝트 디텍션 간단구현 및 파인튜닝 방법
 
