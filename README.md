@@ -6,6 +6,8 @@ README
 누군가에겐 도움이 되길 바랍니다.
 모든 사용예제는 여기 기재되어있습니다.
 all usages are written below this line.
+유전학습 구현 예제도 취미로 코딩해서 더해놨습니다.(주피터노트북)
+
 
 #yolov8을이용한 오브젝트 디텍션 간단구현 및 파인튜닝 방법
 <img width="477" alt="스크린샷 2023-12-14 오전 1 20 04" src="https://github.com/taegoneom/taegoneom.github.io/assets/99521902/73cde557-ef0b-421c-aaaf-5d44399e0357">
